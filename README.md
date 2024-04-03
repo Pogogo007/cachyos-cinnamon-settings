@@ -1,2 +1,2 @@
 # cachyos-cinnamon-settings
-Testing Repo for the cinnamon settings
+Cachyos-Cinnamond-Settings
